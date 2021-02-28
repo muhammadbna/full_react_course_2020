@@ -1,4 +1,4 @@
-import Setup from "./1-useState/";
+import Setup from "./2-useEffect/";
 
 import "./index.css";
 
