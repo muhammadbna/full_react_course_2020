@@ -1,4 +1,4 @@
-import Setup from "./2-useEffect/";
+import Setup from "./3-conditional-rendering/";
 
 import "./index.css";
 
