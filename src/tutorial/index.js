@@ -1,4 +1,4 @@
-import Setup from "./6-useReducer/";
+import Setup from "./7-prop-drilling/";
 
 import "./index.css";
 
