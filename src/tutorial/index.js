@@ -1,4 +1,4 @@
-import Setup from "./11-react-router";
+import Setup from "./12-memo-and-others";
 
 import "./index.css";
 
