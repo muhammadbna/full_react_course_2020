@@ -1,4 +1,4 @@
-import Setup from "./10-prop-types";
+import Setup from "./11-react-router";
 
 import "./index.css";
 
