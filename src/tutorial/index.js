@@ -1,4 +1,4 @@
-import Setup from "./5-useRef/";
+import Setup from "./6-useReducer/";
 
 import "./index.css";
 
