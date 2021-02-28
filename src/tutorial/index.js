@@ -1,4 +1,4 @@
-import Setup from "./9-custom-hooks";
+import Setup from "./10-prop-types";
 
 import "./index.css";
 
