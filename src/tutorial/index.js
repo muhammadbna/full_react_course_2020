@@ -1,4 +1,4 @@
-import Setup from "./3-conditional-rendering/";
+import Setup from "./4-forms/";
 
 import "./index.css";
 
