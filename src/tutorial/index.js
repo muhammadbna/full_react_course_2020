@@ -1,4 +1,4 @@
-import Setup from "./7-prop-drilling/";
+import Setup from "./8-useContext";
 
 import "./index.css";
 
